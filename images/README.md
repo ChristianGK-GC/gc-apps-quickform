@@ -2,10 +2,8 @@
 
 ## Converter
 
-https://svgtopng.com/
+[https://svgtopng.com/](https://www.svgviewer.dev/svg-to-data-uri)
 
 ## Used Icons
 
-- `icon.png` - Main application icon
-- `icon-v*.svg` - Logo in vector format
-- `icon-v*.png` - Logo in raster format (exported from vector)
+- `icon.svg` - Main application icon
